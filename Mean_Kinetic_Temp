@@ -31,4 +31,4 @@ Function MeanKT(Temperatures)
     MeanKT = HR / denom
     MeanKT = MeanKT - Tkelvin
 
-End Function
+End Function 
